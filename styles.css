@@ -1,0 +1,37 @@
+body {
+   color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+    color: #1a1aff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border: 5px solid white;
+    background-color: green;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+p {
+   text-align: center;
+    font-family: 'Henny Penny', cursive;
+}
+
+html {
+    background-color: #ffff00;
+}
+
+.brown {
+    color: #cc6600;
+}
+
+.blue {
+    color: #33ccff;
+}
